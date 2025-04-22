@@ -227,7 +227,7 @@ function library.new(library_title, cfg_location)
         BackgroundColor3 = Color3.fromRGB(255, 255, 255),
         BackgroundTransparency = 1,
         Position = UDim2.new(0, 102, 0, 42),
-        Size = UDim2.new(0, 586, 0, 446),
+        Size = UDim2.new(0, 300, 0, 300),
     }, ImageLabel)
 
 	if syn then
